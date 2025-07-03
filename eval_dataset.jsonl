@@ -1,0 +1,2 @@
+{ "query": "What is the weather in New York", "response": "The weather in New York varies depending on the time of year. In general, summers are warm and humid, while winters can be cold and snowy. For the most accurate and current weather information, please check a reliable weather service.", "ground_truth": "Sunny, 25°C" }
+{ "query": "What is the capital of France", "response": "The capital of France is Paris.", "ground_truth": "Paris" }
